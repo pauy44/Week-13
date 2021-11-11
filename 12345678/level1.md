@@ -10,3 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/567256/141252053-f17d34cd-001b-428a-b83d-22995b69bcb4.png)
 
+---
+ตารางสรุปผล
+
+![image](https://user-images.githubusercontent.com/567256/141252474-3468dc9a-a756-4076-9639-6a50edb7bf72.png)
