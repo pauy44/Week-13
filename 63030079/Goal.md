@@ -6,3 +6,5 @@
 
 ---
 ตารางสรุปผล Main
+
+<img src="Goal/All Goal1.png">
