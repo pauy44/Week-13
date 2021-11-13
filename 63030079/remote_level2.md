@@ -8,54 +8,55 @@
 
 ด่านที่ 2.1 
 
-<img src="">
+<img src="Remote/Level2/2.1-1.png">
+<img src="Remote/Level2/2.1-2.png">
 
 ---
 
 ด่านที่ 2.2
 
-<img src="">
+<img src="Remote/Level2/2.2.png">
 
 ---
 
 ด่านที่ 2.3
 
-<img src="">
+<img src="Remote/Level2/2.3.png">
 
 ---
 
 ด่านที่ 2.4
 
-<img src="">
+<img src="Remote/Level2/2.4.png">
 
 ---
 
 ด่านที่ 2.5
 
-<img src="">
+<img src="Remote/Level2/2.5.png">
 
 ---
 
 ด่านที่ 2.6
 
-<img src="">
+<img src="Remote/Level2/2.6.png">
 
 ---
 
 ด่านที่ 2.7
 
-<img src="">
+<img src="Remote/Level2/2.7.png">
 
 ---
 
 ด่านที่ 2.8
 
-<img src="">
+<img src="Remote/Level2/2.8.png">
 
 ---
 
 ตารางสรุปผล
 
-<img src="">
+<img src="Remote/Level2/goal2.png">
 
 ---
