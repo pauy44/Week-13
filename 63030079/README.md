@@ -25,3 +25,7 @@ Remote1 ====> [Level1](./remote_level1.md)
 Remote2 ====> [Level2](./remote_level2.md)
 
 ---
+
+## Goal
+
+ตารางสรุปผล ====> [Goal](./Goal.md)
